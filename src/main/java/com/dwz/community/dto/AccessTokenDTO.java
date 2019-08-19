@@ -1,4 +1,4 @@
-package com.dwz.community.DTO;
+package com.dwz.community.dto;
 
 public class AccessTokenDTO {
 
